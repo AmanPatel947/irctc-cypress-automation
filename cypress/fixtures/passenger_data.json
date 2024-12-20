@@ -18,8 +18,8 @@
       "FOOD": "No Food"
     }
   ],
-  "__valid_coaches__": "CC",
+  "__valid_coaches__": "SL",
   "__valid_seats__": "No Preference",
-  "__valid_genders__": "Transgender",
+  "__valid_genders__": "Male",
   "__valid_food_choices__": "No Food"
 }
